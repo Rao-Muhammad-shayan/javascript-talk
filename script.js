@@ -62,8 +62,6 @@ if(word=="ji hazoor ji hazoor"){
         let arr2=[];
         for(let i=arr.length-1;i>=0;i--){
     let randomNumber=Math.floor(Math.random()*arrLength)
-        1
-        2
 
     arr2.push(randomNumber);
     
