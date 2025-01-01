@@ -52,7 +52,7 @@ let d=+prompt("Enter 4rth the Number between 0 -4 For Badsha ka wazeer");
 let arrLength=arr.length;
 let word=prompt("Badshah ka wazeer kon");
 
-if(word=="ji hazoor ji hazoor "){
+if(word=="ji hazoor ji hazoor"){
     alert(`chor sipahi ka pta lgao`)
     if(!isNaN(a&b&c&d) &(a<=4 )&(b<=4)&(c<=4)&(d<=4)){
         let resultA="";
@@ -62,7 +62,9 @@ if(word=="ji hazoor ji hazoor "){
         let arr2=[];
         for(let i=arr.length-1;i>=0;i--){
     let randomNumber=Math.floor(Math.random()*arrLength)
-        
+        1
+        2
+
     arr2.push(randomNumber);
     
     }
